@@ -1,5 +1,5 @@
 # RNA-seq Nextflow Pipeline  
-
+The script owner's @shaimaa672
 ## 📌 Overview  
 A reproducible and scalable **RNA-seq preprocessing pipeline** implemented in **Nextflow**, automating trimming, quality control, alignment, and quantification. The pipeline ensures reproducibility and efficiency for bioinformatics research, supporting both local and cloud/HPC execution.  
 
